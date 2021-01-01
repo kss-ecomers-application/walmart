@@ -1,1 +1,2 @@
-this is db java class
+this is db java class...
+am now practicing
